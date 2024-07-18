@@ -1,33 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T16:33:07.331Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zs2hmzt0xY0hGx-wbOnf" version="24.6.2" type="github">
-  <diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">
-    <mxGraphModel dx="1467" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-07-18T11:42:06.042Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="4Z8U67mLjdA0NErvfDL3" type="github">
+  <diagram name="Page-1" id="lCeqGeMzZ-48mY5_Zcz3">
+    <mxGraphModel>
       <root>
-        <mxCell id="0" style=";html=1;" />
-        <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="--t8zj30IRob2JEcnnss-6" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;strokeWidth=20;strokeColor=#007FFF;perimeterSpacing=8;" vertex="1" parent="1">
-          <mxGeometry x="251" y="430" width="700" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="--t8zj30IRob2JEcnnss-7" value="" style="line;strokeWidth=8;html=1;dashed=1;dashPattern=8 8;strokeColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="247" y="750" width="720" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="--t8zj30IRob2JEcnnss-8" value="" style="line;strokeWidth=8;html=1;dashed=1;dashPattern=8 8;strokeColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="247" y="830" width="720" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="--t8zj30IRob2JEcnnss-9" value="" style="line;strokeWidth=8;html=1;dashed=1;dashPattern=8 8;strokeColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="247" y="910" width="720" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="--t8zj30IRob2JEcnnss-16" value="" style="line;strokeWidth=8;html=1;dashed=1;dashPattern=8 8;strokeColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="246" y="514" width="720" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="--t8zj30IRob2JEcnnss-17" value="" style="line;strokeWidth=8;html=1;dashed=1;dashPattern=8 8;strokeColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="246" y="594" width="720" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="--t8zj30IRob2JEcnnss-18" value="" style="line;strokeWidth=8;html=1;dashed=1;dashPattern=8 8;strokeColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="246" y="674" width="720" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="--t8zj30IRob2JEcnnss-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.car;fillColor=#5294CF;gradientColor=none;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="246" y="530" width="60" height="54" as="geometry" />
-        </mxCell>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
